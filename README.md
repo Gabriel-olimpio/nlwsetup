@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits Tracker é um app para rastrear o hábitos.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://gabriel-olimpio.github.io/nlwsetup/)
 
 
 ## 🔖 Layout
